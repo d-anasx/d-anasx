@@ -4,7 +4,7 @@ I'm a Youcode student with a curiosity for technology and a drive to build innov
 
 ![Anas's Stats](https://github-readme-stats.vercel.app/api?username=d-anasx&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)\
 [![Anas's Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d-anasx&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)\
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/d-anasx/d-anasx/blob/output/github-contribution-grid-snake.svg)
 
 ## 🚀 About Me
 
