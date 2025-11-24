@@ -2,7 +2,7 @@
 
 I'm a Youcode student with a curiosity for technology and a drive to build innovative solutions. My journey involves exploring the worlds of web development and AI, constantly learning and pushing boundaries in tech.
 
-![Anas's Stats](https://github-readme-stats.vercel.app/api?username=d-anasx&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Anas's Stats](https://github-readme-stats.vercel.app/api?username=d-anasx&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)\
 [![Anas's Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d-anasx&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🚀 About Me
