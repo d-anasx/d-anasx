@@ -13,7 +13,7 @@ I'm a Youcode student with a curiosity for technology and a drive to build innov
 
 ## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,react,laravel,nodejs,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,py,react,laravel,nodejs,tailwind,bootstrap,figma,mongodb)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
